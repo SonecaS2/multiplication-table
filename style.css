@@ -1,0 +1,56 @@
+body {
+  background: linear-gradient(to left, #3B8C66, #347355);
+  font: normal 16pt Arial;
+}
+
+header {
+  color: white;
+  text-align: center;
+}
+
+section {
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.137);
+  background: #223240;
+  border-radius: 10px;
+  width: 500px;
+  padding: 10px;
+  text-align: center;
+  margin: auto; 
+}
+
+#txtn {
+  background-color: rgb(236, 234, 234);
+  padding: 7px;
+  border-radius: 10px;
+  width: 150px;
+  font-style: italic
+}
+
+.btn {
+  font-weight: bold;
+  border: none;
+  border-radius: 10px;
+  padding: 8px;
+  background: rgb(224, 224, 224);
+}
+
+.btn:hover {
+  background-color: #60BF81;
+  cursor: pointer;
+}
+
+p {
+  color: white;
+}
+
+#seltab {
+  font-style: italic;
+  padding: 50px;
+  border: 1px dashed black;
+}
+
+footer {
+  font-style: italic;
+  color: white;
+  text-align: center;
+}
